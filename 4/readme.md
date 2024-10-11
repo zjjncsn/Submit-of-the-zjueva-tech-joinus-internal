@@ -8,7 +8,7 @@ pip install flask
 
 之后再运行这个程序。
 
-现在还是半成品，有空再更新吧qaq
+现在还是半成品，有空再更新吧qaq（估计是没精力写完了）
 
 我可以说一下后续的思路。Python的json库的dump和load函数（不是dumps和loads）可以实现本地json文件的读写。用一个类似这样的json格式数据进行本地存储（当然也可以用数据库什么的）
 
